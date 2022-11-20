@@ -1,0 +1,20 @@
+surface,surface decimal,underlying,underlying decimal,comment
+š,ChrW(353),§,ChrW(167),
+č,ChrW(99) + ChrW(780),Æ,ChrW(198),
+k̓,"""k"" + ChrW(787)",û,ChrW(251),
+q̓,ChrW(113) + ChrW(787),Ï,ChrW(207),
+ƛ̓,ChrW(411) + ChrW(787),Ã,ChrW(195),
+x̌,ChrW(120) + ChrW(780),Å,ChrW(197),
+c̓,"""c"" + ChrW(787)",,ChrW(141),this doesn't display properly
+m̓,"""m"" + ChrW(787)",µ,ChrW(181),
+n̓,"""n"" + ChrW(787)",º,ChrW(186),masculine ordinal indicator
+l̓,"""l"" + ChrW(787)",Â,ChrW(194),
+y̓,"""y"" + ChrW(787)",´,ChrW(180),
+w̓,"""w"" + ChrW(787)",·,ChrW(183),middle dot
+ʔ,ChrW(660),Ö,ChrW(214),
+ł,ChrW(322),¨,ChrW(168),diaeresis
+ə,ChrW(601),;,ChrW(59),
+p̓,"""p"" + ChrW(787)",¹,ChrW(185),superscript 1
+θ,ChrW(952),Ä,ChrW(196),
+·,ChrW(183),¥,ChrW(165),
+ʷ,ChrW(695),¿,ChrW(191),

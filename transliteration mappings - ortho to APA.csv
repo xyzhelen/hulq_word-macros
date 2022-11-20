@@ -1,0 +1,51 @@
+HTG,HTG code,APA,APA code
+tth’,"""tth"" + ChrW(8217)",t̓ᶿ,ChrW(116) + ChrW(787) + ChrW(7615)
+tth,"""tth""",tᶿ,ChrW(116) + ChrW(7615)
+th,"""th""",θ,ChrW(952)
+xw,"""xw""",x̌ʷ,"""x"" + ChrW(780) + ChrW(695)"
+x,"""x""",x̌,"""x"" + ChrW(780)"
+s-hw,"""s-hw""",sxʷ,"""sx"" + ChrW(695)"
+t-hw,"""t-hw""",txʷ,"""tx"" + ChrW(695)"
+s-h,"""s-h""",sh,"""sh"""
+t-h,"""t-h""",tx,"""tx"""
+ch’,"""ch"" + ChrW(8217)",č̓,ChrW(269) + ChrW(787)
+lh,"""lh""",ł,ChrW(322)
+sh,"""sh""",š,ChrW(353)
+ch,"""ch""",č,ChrW(269)
+hw,"""hw""",xʷ,"""x"" + ChrW(695)"
+oo,"""oo""",ȸ:,"ChrW(568) + "":"""
+ou,"""ou""",ȸ,ChrW(568)
+u,"""u""",ə,ChrW(601)
+t-l’,"""t-l"" + ChrW(8217)",tl̓,"""t""+ChrW(108) + ChrW(787)"
+tl’,"""tl"" + ChrW(8217)",ƛ̓,ChrW(411) + ChrW(787)
+ts’,"""ts"" + ChrW(8217)",c̓,ChrW(99) + ChrW(787)
+ts,"""ts""",c,"""c"""
+kw’,"""kw"" + ChrW(8217)",k̓ʷ,"""k"" + ChrW(787) + ChrW(695)"
+qw’,"""qw"" + ChrW(8217)",q̓ʷ,"""q"" + ChrW(787) + ChrW(695)"
+qw,"""qw""",qʷ,"""q"" + ChrW(695)"
+t-s,"""t-s""",ts,"""ts"""
+q’,"""q"" + ChrW(8217)",q̓,"""q"" + ChrW(787)"
+l’,"""l"" + ChrW(8217)",l̓,"""l"" + ChrW(787)"
+m’,"""m"" + ChrW(8217)",m̓,"""m"" + ChrW(787)"
+’m,"ChrW(8217) + ""m""",m̓,"""m"" + ChrW(787)"
+w’,"""w"" + ChrW(8217)",w̓,"""w"" + ChrW(787)"
+’w,"ChrW(8217) + ""w""",w̓,"""w"" + ChrW(787)"
+aa,"""aa""",a:,"""a:"""
+ee,"""ee""",e:,"""e:"""
+ii,"""ii""",i:,"""i:"""
+kw,"""kw""",kʷ,"""k"" + ChrW(695)"
+p’,"""p"" + ChrW(8217)",p̓,"""p"" + ChrW(787)"
+t’,"""t"" + ChrW(8217)",t̓,"""t"" + ChrW(787)"
+’n,"ChrW(8217) + ""n""",n̓,"""n"" + ChrW(787)"
+n’,"""n"" + ChrW(8217)",n̓,"""n"" + ChrW(787)"
+l’,"""l"" + ChrW(8217)",l̓,"""l"" + ChrW(787)"
+’l,"ChrW(8217) + ""l""",l̓,"""l"" + ChrW(787)"
+y’,"""y"" + ChrW(8217)",y̓,"""y"" + ChrW(787)"
+’y,"ChrW(8217) + ""y""",y̓,"""y"" + ChrW(787)"
+’,ChrW(8217),ʔ,ChrW(660)
+:m̓,""":m"" + ChrW(787)",:mʔ,""":m"" + ChrW(660)"
+:n̓,""":n"" + ChrW(787)",:nʔ,""":n"" + ChrW(660)"
+:l̓,""":l"" + ChrW(787)",:lʔ,""":l"" + ChrW(660)"
+:w̓,""":w"" + ChrW(787)",:wʔ,""":w"" + ChrW(660)"
+:y̓,""":y"" + ChrW(787)",:yʔ,""":y"" + ChrW(660)"
+ȸ,ChrW(568),u,"""u"""
