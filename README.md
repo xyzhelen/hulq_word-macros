@@ -2,7 +2,7 @@
 IF YOU ARE LOOKING FOR "THE TRANSLITERATOR", download the **transliterator_hulq.docm** file.
 
 
-## word macros for hul'q'umi'num'
+# word macros for hul'q'umi'num'
 
 These 2 macros transliterate between the practical orthography and APA phonetics
 - to_Orthography
@@ -18,7 +18,8 @@ These convert text typed in "Straight" font into Unicode. Requires the Straight 
 
 Other files
 - python script that writes a word macro
-- font glyphs for the Straight (mac) font
+- word macros (*.bas) files
+- font glyphs for the Straight (Mac) font
 - the unicode mappings that I used
 - the Straight (Mac) font file which was originally made for mac. I was unable to get a working version of the Straight (Win) font originally created for windows.
 
