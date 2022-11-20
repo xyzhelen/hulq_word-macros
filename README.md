@@ -12,14 +12,15 @@ Same as above but transliterate text based on the font. Requires the "BC Sans" f
 - BCsans_to_APA
 - BCsans_to_Orthography
 
-These convert text typed in "Straight" font into Unicode. Requires the Straight font to be installed (or any font thats named "Straight").
-- StraightDonna_Unicode (the Straight font originally made for Macs)
-- StraightBarbara_Unicode (the Straight font originally made for Windows)
+These convert text typed in "Straight" font into Unicode. Requires the Straight font to be installed (or any font thats named "Straight"). NOTE: The "Straight" font was orginally created for Mac computers and then ported to Windows. Straight (Mac) and Straight (Win) share the same glyphs but have different Unicode mappings.
+- StraightDonna_Unicode (converts the Straight font originally made for Macs)
+- StraightBarbara_Unicode (converts the Straight font originally made for Windows)
 
 Other files
 - python script that writes a word macro
 - font glyphs for the Straight (mac) font
 - the unicode mappings that I used
+- the Straight (Mac) font file which was originally made for mac. I was unable to get a working version of the Straight (Win) font originally created for windows.
 
 
 "BC Sans" font
